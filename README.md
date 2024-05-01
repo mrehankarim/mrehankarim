@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on MERN Stack projects
 - 📫 How to reach me [Muhammad Rehan](https://www.linkedin.com/in/mrehankarim/)
 
-- 😄 Pronouns: RI
+- 😄 Pronouns: He
 - ⚡ Fun fact: My revealed secrets somehow leads to my own bullying 😂
 
 <!---
