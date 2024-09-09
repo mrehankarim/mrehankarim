@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an E-commerce web app<br>👯 I’m looking to collaborate on a javaScript based solution<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Next JS <br/> 📫 How to reach me [Muhammad Rehan](https://www.linkedin.com/in/mrehankarim/)
+🔭 I’m currently working on an E-commerce web app<br>👯 I’m looking to collaborate on a javaScript based solution<br>🤝 I’m looking for help with e-commerce automation <br>🌱 I’m currently learning Next JS <br/> 📫 How to reach me [Muhammad Rehan](https://www.linkedin.com/in/mrehankarim/)
 
 
 ## 🌐 Socials:
