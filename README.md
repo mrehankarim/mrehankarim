@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Full-Stack+%26+GenAI+Engineer+%F0%9F%A4%96;Next.js+%7C+TypeScript+%7C+Python;LangChain+%7C+LangGraph+%7C+RAG+Systems;Building+AI-Powered+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%26+GenAI+Engineer+%F0%9F%A4%96;MERN+Stack+%C2%B7+Next.js+%C2%B7+React+Native;LangChain+%C2%B7+LangGraph+%C2%B7+RAG+Systems;Shipping+End-to-End+AI-Powered+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
-<h3>Muhammad Rehan &nbsp;·&nbsp; CS @ NUCES Lahore &nbsp;·&nbsp; Full-Stack + GenAI</h3>
+<h3>Muhammad Rehan &nbsp;·&nbsp; CS @ FAST-NUCES Lahore &nbsp;·&nbsp; Full-Stack + GenAI</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrehankarim)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_.rehan08)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Level%201%20Seller-%231DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/)
 &nbsp;&nbsp;
 [![Profile Views](https://visitcount.itsvg.in/api?id=mrehankarim&icon=5&color=6)](https://visitcount.itsvg.in)
 
@@ -16,23 +15,25 @@
 
 ## 🧑‍💻 About Me
 
-Final-year CS student at **NUCES Lahore** building production-grade, AI-integrated web applications. I work at the intersection of **full-stack web engineering** and **Generative AI** — from Next.js frontends to multi-agent LangGraph pipelines.
+Final-year CS student at **FAST-NUCES Lahore** — **CGPA 3.618 / 4.0 · 4× Dean's List · Merit Scholarship** — building production-grade, AI-integrated web and mobile applications.
 
-- 🔭 Building **Barakah** — an AI-powered wedding marketplace for Pakistan, with conversational planning agents (LangGraph), smart vendor recommendations (pgvector), and escrow-based payments
-- 🧠 FYP: **ORACLE** — a LangGraph multi-agent research synthesis engine with Neo4j knowledge graphs, contradiction detection, and long-term episodic memory
-- 💼 **Fiverr Level 1 Seller** — Next.js, TypeScript & AI-integrated web app development
-- 🌱 Deepening expertise in **RAG architectures**, **agentic systems**, and **vector search**
-- 🎯 Targeting roles in **Full-Stack** and **GenAI / LLM Engineering**
+Fluent across the **MERN stack and Generative and Agentic AI ** from database schema design to deployed UI, with a track record of shipping multi-role SaaS platforms and integrating third-party APIs end-to-end. Expanding into **Generative AI** and agentic pipelines with LangChain and LangGraph.
+
+- 🔭 Building **Barakah** — AI-powered wedding marketplace for Pakistan with conversational planning agents, smart vendor recommendations, and escrow payments
+- ⚡ Built **Crewwise** — 5-role field management SaaS with React Native mobile app for field staff and PayPal subscription billing
+- 🎯 Targeting roles in **Full-Stack Engineering** and **GenAI / LLM Engineering**
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects
 
 | Project | Stack | Status |
 |---------|-------|--------|
 | **Barakah** — AI wedding marketplace for Pakistan | Next.js · FastAPI · LangGraph · pgvector · Redis · BullMQ | 🔨 In Progress |
-| **ORACLE** — Multi-agent research synthesis engine | LangGraph · Neo4j · LangChain · HuggingFace · Python | 🧪 FYP |
-| **Resume Analyzer** — LangChain ATS resume scorer | Express · LangChain · Zod · React · Railway | ✅ Live |
+| **Crewwise** — 5-role Field Management SaaS + mobile | MERN · React Native · PayPal API | ✅ Shipped |
+| **MallMatrix** — Multi-role Mall Management System | SERN · SQL Server · Role-Based Dashboards | ✅ Shipped |
+| **Find Fiesta** — Local Event Discovery Platform | Next.js · Cloudflare R2 · JWT Auth | ✅ Shipped |
+| **HolguinTrades** — Trading Consultant Website | Astro.js · Cloudflare · MDX | ✅ Live · [holguintrades.com](https://holguintrades.com) |
 
 ---
 
@@ -51,7 +52,6 @@ Final-year CS student at **NUCES Lahore** building production-grade, AI-integrat
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 
@@ -66,6 +66,7 @@ Final-year CS student at **NUCES Lahore** building production-grade, AI-integrat
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 **🤖 AI / GenAI Stack**
@@ -76,7 +77,12 @@ Final-year CS student at **NUCES Lahore** building production-grade, AI-integrat
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logoColor=white)
+
+**🔗 Integrations**
+
+![PayPal](https://img.shields.io/badge/PayPal_API-003087?style=flat&logo=paypal&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Cloudflare Turnstile](https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 **🛠 DevOps & Tools**
 
@@ -106,9 +112,6 @@ Final-year CS student at **NUCES Lahore** building production-grade, AI-integrat
 
 ### ✍️ Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repos
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=mrehankarim&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
