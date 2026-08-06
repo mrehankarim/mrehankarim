@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-Final-year CS student at **FAST-NUCES Lahore** - **CGPA 3.618 / 4.0 · 4× Dean's List · Merit Scholarship** — building production-grade, AI-integrated web and mobile applications.
+Final-year CS student at **FAST-NUCES Lahore** - **CGPA 3.61 / 4.0 · 4× Dean's List · Merit Scholarship** — building production-grade, AI-integrated web and mobile applications.
 
 Fluent across the **MERN stack and Generative and Agentic AI ** from database schema design to deployed UI, with a track record of shipping multi-role SaaS platforms and integrating third-party APIs end-to-end. Expanding into **Generative AI** and agentic pipelines with LangChain and LangGraph.
 
